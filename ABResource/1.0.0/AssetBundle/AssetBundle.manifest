@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 3436043673
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: capsule.u3d
+      Dependencies: {}
+    Info_1:
+      Name: sphere.u3d
+      Dependencies: {}
+    Info_2:
+      Name: cube.u3d
+      Dependencies: {}
